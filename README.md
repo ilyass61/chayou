@@ -2,10 +2,8 @@
 
 Full-stack e-commerce website for a Moroccan jewelry brand: product catalog, shopping cart, order flow with WhatsApp notifications, and an admin back-office to manage delivery and site settings.
 
-> **Live demo:** _[add the Vercel link here]_
 
-![Homepage screenshot](docs/screenshot-home.png)
-<!-- Add 2-3 screenshots: homepage, product page, admin panel -->
+
 
 ## Objectives
 
